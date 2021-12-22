@@ -14,6 +14,8 @@
 
 ## Correr el programa
 
+## Version
+#### 1.0
 
 ## Links 
 #### python: https://www.python.org/downloads/release/python-377/
