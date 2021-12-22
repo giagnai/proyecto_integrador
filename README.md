@@ -14,6 +14,7 @@
 
 ## Correr el programa
 
+
 ## Links 
-#### python para windows: https://www.python.org/downloads/release/python-377/
+#### python: https://www.python.org/downloads/release/python-377/
 #### git: https://git-scm.com/downloads
