@@ -13,7 +13,7 @@
 #### - git
 
 ## _Correr el programa 💻_
-#### ejecutar:  *_juego_final.py_*
+#### ejecutar:  *_juego_aleatorio.py_*
 
 ## _Version 🔗_
 #### ✔ 1.1
@@ -27,6 +27,7 @@
 ## _Links ✔_
 #### python: https://www.python.org/downloads/release/python-377/
 #### git: https://git-scm.com/downloads
-�📋🔧⚙🔩⌨📦🛠🖇📌✒📄🎁🔗🔀🔁🔂🔃🔽🔼🔺🔝🔻⌛⌚⌘💹📗📘📢📣🔋🔌📖
-📊📉📈📶🔏🔐🔒🔓🔔🔍📱📲📳📴📝📜📁📂📃📄📆📅💻💾☑✅✒✔✖❌❓❎❔
-❕❗🔘🔈🔉🔊�
+
+## _Agradecimientos_
+#### Gracias a Inove por la ayuda y brindar las herramientas necesarias para poder llevar a cabo este proyecto
+#### Espero que lo disfruten.
