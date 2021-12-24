@@ -13,9 +13,10 @@
 #### - git
 
 ## Correr el programa
+#### ejecutar:  *_juego_final.py_*
 
 ## Version
-#### 1.0
+#### 1.1
 
 ## Links 
 #### python: https://www.python.org/downloads/release/python-377/
