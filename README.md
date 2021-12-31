@@ -19,7 +19,7 @@
 #### ✔ 1.2
 
 ## _Ultima actualizacion 🔧_
-#### 📅24/12/21
+#### 📅31/12/21
 
 ## _Autores📌_
 #### ✒Giagnacovo, Ivan
