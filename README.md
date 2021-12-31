@@ -16,7 +16,7 @@
 #### ejecutar:  *_juego_aleatorio.py_*
 
 ## _Version 🔗_
-#### ✔ 1.1
+#### ✔ 1.2
 
 ## _Ultima actualizacion 🔧_
 #### 📅24/12/21
